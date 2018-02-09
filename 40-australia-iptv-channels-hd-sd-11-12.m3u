@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/34" tvg-id="cafd63fb61a4d94adebfc9646a79f5b3",ONE
+http://143.238.71.64:9981/stream/channelid/2070150602?ticket=B0ACD50BC560C1EA7B886C7D40FB547E966048B5&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/17" tvg-id="7df45c3d671d97f030610a23e862d892",ABC
+http://143.238.71.64:9981/stream/channelid/1029502077?ticket=6A3DF2B9ADA02B6D82B1DAF20792C49F4EC4C063&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/24" tvg-id="9780160fecf501cc8cd31363a351b46a",SBS ONE
+http://143.238.71.64:9981/stream/channelid/253132951?ticket=C4CF3594139AF6586988B53FBF92EF35DA882511&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/9" tvg-id="cd1902ea9a2c1aaefd3157d26ae8096d",7 Sydney
+http://143.238.71.64:9981/stream/channelid/1778522573?ticket=8EB252FE03FA5D3A8BAF091DBFC005B6037CC57B&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/1" tvg-id="13b38e822df3669da361a349edae1a2d",Channel 9 Sydney
+http://143.238.71.64:9981/stream/channelid/42906387?ticket=35F5F221768C3D7C9B47FAEE576C99D12982D537&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/35" tvg-id="7763ae093bb387862f740145b0d17623",TEN Digital
+http://143.238.71.64:9981/stream/channelid/162423671?ticket=E4AE70A7C4E38D9F64A211626E04F250776193DD&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/38" tvg-id="db0641c9e9949632affaabc96b1ad1a3",ELEVEN
+http://143.238.71.64:9981/stream/channelid/1228998363?ticket=7B32FAA8BEEB2108A091202877433B2E1002DCCD&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/37" tvg-id="4249f9522d74039ac0aa35020b8154d7",ONE
+http://143.238.71.64:9981/stream/channelid/1392068930?ticket=753F7A90F7DD9EDC86201C2DF775D43530DA8A12&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/40" tvg-id="46cf0c10432f1f14b19c4daba8caaf94",TEN HD
+http://143.238.71.64:9981/stream/channelid/269274950?ticket=0F01781B1DA6C6AB0316B1BFE24A86D2AE5A1F5B&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/36" tvg-id="d782a3e8382a47bdf8eed8ab3e0e141e",TVSN
+http://143.238.71.64:9981/stream/channelid/1755546327?ticket=FA8D9F51B68DD116B71E55189585C4AD59703F84&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/39" tvg-id="695c7f08f6c8e51457b3a64eeff29fe1",SpreeTV
+http://143.238.71.64:9981/stream/channelid/142564457?ticket=98591A79FEC832E9DF4F01155BE87B84ECD4E8E3&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/21" tvg-id="f183a4f695060b14828ed3e199d86245",ABC HD
+http://143.238.71.64:9981/stream/channelid/1990493169?ticket=8520DD5249F726799ABDD719AB042E7094F0AA8C&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/20" tvg-id="d775ff3702adf4d969cacac07fcddbb5",ABC
+http://143.238.71.64:9981/stream/channelid/939488727?ticket=5F74ABAC6DD1031C785769A2F4447E7046747B41&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/18" tvg-id="38f1764b22d637f896ae15bb71240b13",ABC2/KIDS
+http://143.238.71.64:9981/stream/channelid/1266086200?ticket=54142CF66C3C30A0DB54703DBFACA350E9717DA5&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/19" tvg-id="2e7c2d93d24818e31dbf9199f6042a4a",ABC ME
+http://143.238.71.64:9981/stream/channelid/321748014?ticket=461B2EA7085C5342BCA298D463D3C8C450B7ACC5&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/16" tvg-id="7416511a06612e1a0a4881373463d963",ABC NEWS
+http://143.238.71.64:9981/stream/channelid/441521780?ticket=084491643708564CB609D68E974B8C88DD9949CB&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/29" tvg-id="cee302c9250b5af468ac285e3c8bdab5",SBS ONE HD
+http://143.238.71.64:9981/stream/channelid/1224926158?ticket=E2E6BBC3B0C1B4F068EED614B9C75D5C8361A3CD&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/26" tvg-id="6cae64b16dc5b2309cebc2154394471a",SBS VICELAND HD
+http://143.238.71.64:9981/stream/channelid/828681836?ticket=1A7DBED37267630FC8F5517A89A15C8D6315B1A7&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/25" tvg-id="93c49a02dd08c5daa9b3fadf5914a7cc",SBS VICELAND
+http://143.238.71.64:9981/stream/channelid/43697299?ticket=058820BEE681D59BB68CEAAB5F4E5DC1435AE2A0&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/27" tvg-id="4205a8508cf9249dffdb9595fc42f3be",Food Network
+http://143.238.71.64:9981/stream/channelid/1353188674?ticket=5A52AC1EB0135D26FDBF04F678258EDEB315F234&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/28" tvg-id="58385714209835db158e0a12c72e6251",NITV
+http://143.238.71.64:9981/stream/channelid/341260376?ticket=77F29DC39A4D0876404F786316631AD3057006DD&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/30" tvg-id="fbc80bf61ac82f19380c1d0e01749b1d",SBS Arabic24
+http://143.238.71.64:9981/stream/channelid/1980483835?ticket=A698E92B920B100A7E87359C3EE51BC0A43FE313&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/31" tvg-id="f9501957cd7aa8298cf0cd54d27194ec",SBS Radio 1
+http://143.238.71.64:9981/stream/channelid/1461276921?ticket=C4E5F48D402311202B0A608A2BD5241182F02B43&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/32" tvg-id="dac550d60e058e361ab2cb7753c48f86",SBS Radio 2
+http://143.238.71.64:9981/stream/channelid/1448134106?ticket=C35558F03E99017445D8D64C43350E91B7E07E3A&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/33" tvg-id="152b52d76dd0be6bea7bf5b7b8c26c3b",SBS Radio 3
+http://143.238.71.64:9981/stream/channelid/1465002773?ticket=665EFA3DDB2015460D6A2E49F0FD4EC657ABD8A9&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/13" tvg-id="109e4baaf682fe0113a835274f09b18f",7HD Sydney
+http://143.238.71.64:9981/stream/channelid/709598736?ticket=4328C61FF4A1CEE29162DA707345A81CEDEFDA9D&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/10" tvg-id="c10a7d621fba328fce877f4343e66e52",7 Sydney
+http://143.238.71.64:9981/stream/channelid/1652361921?ticket=6BE10C01005E492C0B3D935E8888337A55B752B0&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/11" tvg-id="7abde8a39a80a8d126ade7edbe37e257",7TWO Sydney
+http://143.238.71.64:9981/stream/channelid/602455418?ticket=6218858A9D801CA8C090762012DB129EFC35C696&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/12" tvg-id="21bde98f315a79d3f89f1c0b54f6b290",7mate Sydney
+http://143.238.71.64:9981/stream/channelid/266976545?ticket=67D553017A7ED9CF22F45DDA6DC729C94DA65F37&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/14" tvg-id="350892f8284c9020734a0d1f25253c93",7flix Sydney
+http://143.238.71.64:9981/stream/channelid/2022836277?ticket=80AC1D7270051D9E031AFDBA1CCB0981EA365D92&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/15" tvg-id="f8343e39400d1f5c692cfa33b9c6f61e",RACING.COM
+http://143.238.71.64:9981/stream/channelid/960378104?ticket=9B9C1C022879104A1CE0C795A3500E02297EEAEA&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/3" tvg-id="7a3257128aae6520abe596edc7504359",9HD Sydney
+http://143.238.71.64:9981/stream/channelid/307704442?ticket=A3C80E6EA8DAA917BCF504A881C21E94288826FB&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/2" tvg-id="088ca27a2d043548075e0df9aa098d88",Channel 9 Sydney
+http://143.238.71.64:9981/stream/channelid/2057473032?ticket=37FCD4E2F18D84234401EC6E8A59947008DDE1F6&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/4" tvg-id="5d6d8110990b65823941add044484b53",9Gem
+http://143.238.71.64:9981/stream/channelid/276917597?ticket=8CAE623ECA0C41E69F207CA7A847C2A7ED2C375F&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/6" tvg-id="3f369eb055451dd5064d2012173449aa",9Go!
+http://143.238.71.64:9981/stream/channelid/815674943?ticket=2C3867D86F819BAFDE5B44674FDAF374A70C4BD7&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/7" tvg-id="44f88ca1fe191f341f66966e81a980d4",9Life
+http://143.238.71.64:9981/stream/channelid/562886724?ticket=50C82EE68A5D03B96521160558B1F21EB87A7058&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/8" tvg-id="0964cea61592e63ae8e2db6a583595ec",Extra
+http://143.238.71.64:9981/stream/channelid/651060233?ticket=D004C520E1A65FA871A2BE15F24EACB9728D7005&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/5" tvg-id="182c89e2a995f3ddf0534f48e9de9236",9Go!
+http://143.238.71.64:9981/stream/channelid/1653156888?ticket=7E3D8515E0A3A403DF0E2A678DFBC7447E854637&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/22" tvg-id="b8d42583ebb93723e09e343d5eccd28c",Double J
+http://143.238.71.64:9981/stream/channelid/52810936?ticket=E341D73CC1DC31577077DC558384FB3582A4BBB0&profile=pass
+#EXTINF:-1 logo="http://143.238.71.64:9981/imagecache/23" tvg-id="baa161ceea36af18660be0a72cf5b259",ABC Jazz
+http://143.238.71.64:9981/stream/channelid/1315021242?ticket=C2314C1153B017A9833EAE034AE781F3E944B5E0&profile=pass
